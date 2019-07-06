@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HomeApplication",
+            "request": "launch",
+            "mainClass": "com.ej.web.HomeApplication",
+            "projectName": "web"
+        }
+    ]
+}
